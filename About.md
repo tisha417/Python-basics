@@ -1,6 +1,6 @@
 # Python Practice Repository
 
-##Hyy! I'm Tisha,
+**Hyy! I'm Tisha,**
 
 I am an engineering student currently learning Python and improving my programming skills step by step.
 
