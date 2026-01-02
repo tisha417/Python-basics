@@ -2,7 +2,6 @@
 
 **Hyy! I'm Tisha,**
 
-
 I am an engineering student currently learning Python and improving my programming skills step by step.
 
 This repository contains my Python practice programs created while learning core concepts and basic Object-Oriented Programming (OOP).
